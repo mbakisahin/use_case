@@ -1,0 +1,206 @@
+2024-08-01 13:52:33,015 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 13:52:33,881 - src.google_drive_uploader.uploader - INFO - Found file: last.csv (ID: 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd)
+2024-08-01 13:52:45,337 - src.google_drive_uploader.uploader - INFO - Download 13%.
+2024-08-01 13:52:56,259 - src.google_drive_uploader.uploader - INFO - Download 26%.
+2024-08-01 13:53:07,467 - src.google_drive_uploader.uploader - INFO - Download 40%.
+2024-08-01 13:53:18,461 - src.google_drive_uploader.uploader - INFO - Download 53%.
+2024-08-01 13:53:29,704 - src.google_drive_uploader.uploader - INFO - Download 67%.
+2024-08-01 13:53:41,585 - src.google_drive_uploader.uploader - INFO - Download 80%.
+2024-08-01 13:53:52,867 - src.google_drive_uploader.uploader - INFO - Download 94%.
+2024-08-01 13:53:59,254 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:53:59,254 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd.
+2024-08-01 13:54:12,032 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:54:12,032 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1qvy1igxaewCdQb_9D_cB3HCHhfe2V38U.
+2024-08-01 13:54:12,101 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 13:54:12,883 - src.google_drive_uploader.uploader - INFO - Found file: trained_model.pkl (ID: 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa)
+2024-08-01 13:54:19,459 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:54:19,460 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa.
+2024-08-01 13:54:19,936 - src.google_drive_uploader.uploader - INFO - Found file: scaler.pkl (ID: 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB)
+2024-08-01 13:54:24,695 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:54:24,695 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB.
+2024-08-01 13:54:25,126 - src.google_drive_uploader.uploader - INFO - Found file: pca.pkl (ID: 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg)
+2024-08-01 13:54:29,399 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:54:29,399 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg.
+2024-08-01 13:54:29,689 - src.prediction.predict - INFO - Model, scaler, and PCA successfully loaded.
+2024-08-01 13:54:29,698 - src.prediction.test_predictor - INFO - shop_id: 101, item_id: 107172, Predicted amount: [0.30184507]
+2024-08-01 13:57:28,904 - main - INFO - Received request for shop_id: 101, item_id: 107172
+2024-08-01 13:57:28,940 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 13:57:28,941 - main - INFO - Initialized TestPredictor
+2024-08-01 13:57:29,786 - src.google_drive_uploader.uploader - INFO - Found file: last.csv (ID: 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd)
+2024-08-01 13:57:43,623 - src.google_drive_uploader.uploader - INFO - Download 13%.
+2024-08-01 13:57:54,789 - src.google_drive_uploader.uploader - INFO - Download 26%.
+2024-08-01 13:58:08,900 - src.google_drive_uploader.uploader - INFO - Download 40%.
+2024-08-01 13:58:21,548 - src.google_drive_uploader.uploader - INFO - Download 53%.
+2024-08-01 13:58:35,110 - src.google_drive_uploader.uploader - INFO - Download 67%.
+2024-08-01 13:58:47,645 - src.google_drive_uploader.uploader - INFO - Download 80%.
+2024-08-01 13:59:00,793 - src.google_drive_uploader.uploader - INFO - Download 94%.
+2024-08-01 13:59:08,943 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:59:08,944 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd.
+2024-08-01 13:59:21,552 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:59:21,552 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1qvy1igxaewCdQb_9D_cB3HCHhfe2V38U.
+2024-08-01 13:59:21,620 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 13:59:22,632 - src.google_drive_uploader.uploader - INFO - Found file: trained_model.pkl (ID: 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa)
+2024-08-01 13:59:27,616 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:59:27,616 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa.
+2024-08-01 13:59:28,153 - src.google_drive_uploader.uploader - INFO - Found file: scaler.pkl (ID: 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB)
+2024-08-01 13:59:32,458 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:59:32,458 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB.
+2024-08-01 13:59:32,955 - src.google_drive_uploader.uploader - INFO - Found file: pca.pkl (ID: 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg)
+2024-08-01 13:59:37,281 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 13:59:37,282 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg.
+2024-08-01 13:59:37,567 - src.prediction.predict - INFO - Model, scaler, and PCA successfully loaded.
+2024-08-01 13:59:37,567 - main - INFO - TestPredictor run completed
+2024-08-01 13:59:37,576 - src.prediction.test_predictor - INFO - shop_id: 101, item_id: 107172, Predicted amount: [0.30184507]
+2024-08-01 13:59:37,576 - main - INFO - Prediction made: [0.30184507]
+2024-08-01 14:02:12,156 - main - INFO - Received request for shop_id: 101, item_id: 107172
+2024-08-01 14:02:12,191 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 14:02:12,192 - main - INFO - Initialized TestPredictor
+2024-08-01 14:02:13,032 - src.google_drive_uploader.uploader - INFO - Found file: last.csv (ID: 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd)
+2024-08-01 14:02:24,391 - src.google_drive_uploader.uploader - INFO - Download 13%.
+2024-08-01 14:02:36,546 - src.google_drive_uploader.uploader - INFO - Download 26%.
+2024-08-01 14:02:47,743 - src.google_drive_uploader.uploader - INFO - Download 40%.
+2024-08-01 14:03:00,125 - src.google_drive_uploader.uploader - INFO - Download 53%.
+2024-08-01 14:03:13,621 - src.google_drive_uploader.uploader - INFO - Download 67%.
+2024-08-01 14:03:26,968 - src.google_drive_uploader.uploader - INFO - Download 80%.
+2024-08-01 14:03:42,809 - src.google_drive_uploader.uploader - INFO - Download 94%.
+2024-08-01 14:03:51,015 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:03:51,015 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd.
+2024-08-01 14:04:03,622 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:04:03,622 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1qvy1igxaewCdQb_9D_cB3HCHhfe2V38U.
+2024-08-01 14:04:03,687 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 14:04:04,550 - src.google_drive_uploader.uploader - INFO - Found file: trained_model.pkl (ID: 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa)
+2024-08-01 14:04:08,655 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:04:08,655 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa.
+2024-08-01 14:04:09,158 - src.google_drive_uploader.uploader - INFO - Found file: scaler.pkl (ID: 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB)
+2024-08-01 14:04:13,341 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:04:13,341 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB.
+2024-08-01 14:04:13,858 - src.google_drive_uploader.uploader - INFO - Found file: pca.pkl (ID: 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg)
+2024-08-01 14:04:18,577 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:04:18,577 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg.
+2024-08-01 14:04:18,881 - src.prediction.predict - INFO - Model, scaler, and PCA successfully loaded.
+2024-08-01 14:04:18,881 - main - INFO - TestPredictor run completed
+2024-08-01 14:04:18,889 - src.prediction.test_predictor - INFO - shop_id: 101, item_id: 107172, Predicted amount: [0.30184507]
+2024-08-01 14:04:18,890 - main - INFO - Prediction made: [0.30184507]
+2024-08-01 14:06:42,352 - main - INFO - Received request for shop_id: 101, item_id: 107172
+2024-08-01 14:06:42,387 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 14:06:42,388 - main - INFO - Initialized TestPredictor
+2024-08-01 14:06:43,256 - src.google_drive_uploader.uploader - INFO - Found file: last.csv (ID: 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd)
+2024-08-01 14:06:59,556 - src.google_drive_uploader.uploader - INFO - Download 13%.
+2024-08-01 14:07:18,468 - src.google_drive_uploader.uploader - INFO - Download 26%.
+2024-08-01 14:07:33,398 - src.google_drive_uploader.uploader - INFO - Download 40%.
+2024-08-01 14:07:48,560 - src.google_drive_uploader.uploader - INFO - Download 53%.
+2024-08-01 14:08:02,944 - src.google_drive_uploader.uploader - INFO - Download 67%.
+2024-08-01 14:08:19,409 - src.google_drive_uploader.uploader - INFO - Download 80%.
+2024-08-01 14:08:34,418 - src.google_drive_uploader.uploader - INFO - Download 94%.
+2024-08-01 14:08:43,254 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:08:43,255 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd.
+2024-08-01 14:08:55,368 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:08:55,368 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1qvy1igxaewCdQb_9D_cB3HCHhfe2V38U.
+2024-08-01 14:08:55,438 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 14:08:56,485 - src.google_drive_uploader.uploader - INFO - Found file: trained_model.pkl (ID: 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa)
+2024-08-01 14:09:04,427 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:09:04,427 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa.
+2024-08-01 14:09:04,892 - src.google_drive_uploader.uploader - INFO - Found file: scaler.pkl (ID: 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB)
+2024-08-01 14:09:09,075 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:09:09,075 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB.
+2024-08-01 14:09:09,598 - src.google_drive_uploader.uploader - INFO - Found file: pca.pkl (ID: 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg)
+2024-08-01 14:09:14,100 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:09:14,100 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg.
+2024-08-01 14:09:14,380 - src.prediction.predict - INFO - Model, scaler, and PCA successfully loaded.
+2024-08-01 14:09:14,380 - main - INFO - TestPredictor run completed
+2024-08-01 14:09:14,389 - src.prediction.test_predictor - INFO - shop_id: 101, item_id: 107172, Predicted amount: [0.30184507]
+2024-08-01 14:09:14,389 - main - INFO - Prediction made: 0.3018450684091367
+2024-08-01 14:10:23,380 - main - INFO - Received request for shop_id: 101, item_id: 107172
+2024-08-01 14:10:23,422 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 14:10:23,425 - main - INFO - Initialized TestPredictor
+2024-08-01 14:10:24,206 - src.google_drive_uploader.uploader - INFO - Found file: last.csv (ID: 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd)
+2024-08-01 14:10:43,537 - src.google_drive_uploader.uploader - INFO - Download 13%.
+2024-08-01 14:11:02,901 - src.google_drive_uploader.uploader - INFO - Download 26%.
+2024-08-01 14:11:18,758 - src.google_drive_uploader.uploader - INFO - Download 40%.
+2024-08-01 14:11:32,812 - src.google_drive_uploader.uploader - INFO - Download 53%.
+2024-08-01 14:11:47,355 - src.google_drive_uploader.uploader - INFO - Download 67%.
+2024-08-01 14:12:03,855 - src.google_drive_uploader.uploader - INFO - Download 80%.
+2024-08-01 14:12:19,424 - src.google_drive_uploader.uploader - INFO - Download 94%.
+2024-08-01 14:12:27,130 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:12:27,130 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd.
+2024-08-01 14:12:39,885 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:12:39,885 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1qvy1igxaewCdQb_9D_cB3HCHhfe2V38U.
+2024-08-01 14:12:39,952 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 14:12:40,857 - src.google_drive_uploader.uploader - INFO - Found file: trained_model.pkl (ID: 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa)
+2024-08-01 14:12:47,268 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:12:47,268 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa.
+2024-08-01 14:12:47,703 - src.google_drive_uploader.uploader - INFO - Found file: scaler.pkl (ID: 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB)
+2024-08-01 14:12:52,203 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:12:52,203 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB.
+2024-08-01 14:12:52,711 - src.google_drive_uploader.uploader - INFO - Found file: pca.pkl (ID: 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg)
+2024-08-01 14:12:57,016 - src.google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:12:57,016 - src.google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg.
+2024-08-01 14:12:57,022 - main - ERROR - Prediction error: [Errno 2] No such file or directory: '/home/baki/Masaüstü/deeplearning/src/project.log'
+2024-08-01 14:18:34,925 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 14:18:35,948 - google_drive_uploader.uploader - INFO - Found file: last.csv (ID: 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd)
+2024-08-01 14:18:53,889 - google_drive_uploader.uploader - INFO - Download 13%.
+2024-08-01 14:19:06,941 - google_drive_uploader.uploader - INFO - Download 26%.
+2024-08-01 14:19:18,719 - google_drive_uploader.uploader - INFO - Download 40%.
+2024-08-01 14:19:30,251 - google_drive_uploader.uploader - INFO - Download 53%.
+2024-08-01 14:19:41,538 - google_drive_uploader.uploader - INFO - Download 67%.
+2024-08-01 14:19:54,713 - google_drive_uploader.uploader - INFO - Download 80%.
+2024-08-01 14:20:07,158 - google_drive_uploader.uploader - INFO - Download 94%.
+2024-08-01 14:20:13,815 - google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:20:13,815 - google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1kq7LOZI3zls15ZmKvTW4tigFN418iwUd.
+2024-08-01 14:20:24,584 - google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:20:24,584 - google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1qvy1igxaewCdQb_9D_cB3HCHhfe2V38U.
+2024-08-01 14:20:24,652 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 14:20:25,657 - google_drive_uploader.uploader - INFO - Found file: trained_model.pkl (ID: 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa)
+2024-08-01 14:20:30,832 - google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:20:30,832 - google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1dJ-Qp7ba1H22n9dpSY_ABkezrI5Bxzwa.
+2024-08-01 14:20:31,398 - google_drive_uploader.uploader - INFO - Found file: scaler.pkl (ID: 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB)
+2024-08-01 14:20:35,379 - google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:20:35,379 - google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 10k5pqy7hcv10d1dCFM-yp7nd2ilnccJB.
+2024-08-01 14:20:35,905 - google_drive_uploader.uploader - INFO - Found file: pca.pkl (ID: 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg)
+2024-08-01 14:20:40,127 - google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:20:40,128 - google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1W4PcFjjps3Pmr-bItrrEuhi61dGlzdWg.
+2024-08-01 14:20:40,388 - prediction.setup.predict - INFO - Model, scaler, and PCA successfully loaded.
+2024-08-01 14:20:40,395 - prediction.setup.test_predictor - INFO - shop_id: 101, item_id: 107172, Predicted amount: [0.30184507]
+2024-08-01 14:59:08,467 - __main__ - INFO - Starting the main script...
+2024-08-01 14:59:08,501 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 14:59:08,502 - __main__ - INFO - Preparing data...
+2024-08-01 14:59:19,381 - google_drive_uploader.uploader - INFO - Download 88%.
+2024-08-01 14:59:24,378 - google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:59:24,378 - google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1qAekESV0eDNcQ0aEMJF95i-W0ysfLXSS.
+2024-08-01 14:59:28,583 - google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:59:28,583 - google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1AUQC88xAb1rkc2zb151tEWf-k57lypMD.
+2024-08-01 14:59:32,418 - google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:59:32,418 - google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1Sj90Oqc7KQesWTzZuo08Ku8AlCagshF1.
+2024-08-01 14:59:37,684 - google_drive_uploader.uploader - INFO - Download 100%.
+2024-08-01 14:59:37,684 - google_drive_uploader.uploader - INFO - File downloaded successfully to folder ID 1GXj9YQZAHx-zdQSEz_L0tyOfTLdTuVOJ.
+2024-08-01 14:59:39,096 - __main__ - INFO - Data prepared.
+2024-08-01 14:59:39,096 - __main__ - INFO - Engineering features...
+2024-08-01 14:59:42,000 - __main__ - INFO - Features engineered.
+2024-08-01 14:59:42,001 - __main__ - INFO - Saving and uploading data to Google Drive...
+2024-08-01 15:00:26,535 - google_drive_uploader.uploader - INFO - Upload 13% complete.
+2024-08-01 15:00:36,615 - google_drive_uploader.uploader - INFO - Upload 26% complete.
+2024-08-01 15:00:41,760 - google_drive_uploader.uploader - INFO - Upload 40% complete.
+2024-08-01 15:00:47,310 - google_drive_uploader.uploader - INFO - Upload 53% complete.
+2024-08-01 15:00:53,928 - google_drive_uploader.uploader - INFO - Upload 67% complete.
+2024-08-01 15:01:00,013 - google_drive_uploader.uploader - INFO - Upload 80% complete.
+2024-08-01 15:01:05,706 - google_drive_uploader.uploader - INFO - Upload 94% complete.
+2024-08-01 15:01:09,483 - google_drive_uploader.uploader - INFO - File last.csv uploaded successfully to folder ID 1sazosSHf7leJqmLdb3Urla5Fb2bhFH5l.
+2024-08-01 15:01:09,547 - __main__ - INFO - Data saved and uploaded.
+2024-08-01 15:01:09,547 - __main__ - INFO - Main script completed.
+2024-08-01 15:57:04,941 - __main__ - INFO - Starting the main script...
+2024-08-01 15:57:04,985 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 15:57:04,986 - __main__ - INFO - Preparing data...
+2024-08-01 15:57:05,814 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "accessNotConfigured"
+2024-08-01 15:59:29,235 - __main__ - INFO - Starting the main script...
+2024-08-01 15:59:29,268 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 15:59:29,269 - __main__ - INFO - Preparing data...
+2024-08-01 15:59:30,180 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "accessNotConfigured"
+2024-08-01 16:03:21,724 - __main__ - INFO - Starting the main script...
+2024-08-01 16:03:21,761 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-01 16:03:21,762 - __main__ - INFO - Preparing data...
+2024-08-01 16:03:37,850 - cloud_storage.uploader - INFO - Download 88%.
+2024-08-02 09:19:42,717 - __main__ - INFO - Starting the main script...
+2024-08-02 09:20:23,622 - __main__ - INFO - Starting the main script...
+2024-08-02 09:20:23,663 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-02 09:20:23,664 - __main__ - INFO - Preparing data...
+2024-08-02 09:20:33,722 - storage.uploader - INFO - Download 88%.
